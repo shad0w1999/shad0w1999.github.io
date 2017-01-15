@@ -23,12 +23,11 @@ a:active {
   padding: 2vh 0 8vw 6vh;
   text-align: left;
   font-size: 30px;
-  color: #212121;
+  color: whitesmoke;
 }
 ::-webkit-scrollbar {
     display: none;
 }
 .content {
   text-align: center;
-  color: whitesmoke;
 }
