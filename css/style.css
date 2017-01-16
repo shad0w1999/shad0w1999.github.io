@@ -1,17 +1,14 @@
 a:link {
-    color: whitesmoke;
+    color: #BDBDBD;
 }
 a:visited {
-    color: whitesmoke;
+    color: #BDBDBD;
 }
 a:hover {
-    color: whitesmoke;
+    color: #BDBDBD;
 }
 a:active {
-    color: whitesmoke;
-}
-#section1{
-  color: whitesmoke;
+    color: #BDBDBD;
 }
 #fullpage{
   width: 100%;
@@ -19,15 +16,9 @@ a:active {
   position: fixed;
   background: #fff;
 }
-.capabilities{
-  padding: 2vh 0 8vw 6vh;
-  text-align: left;
-  font-size: 30px;
-  color: whitesmoke;
-}
 ::-webkit-scrollbar {
     display: none;
 }
-.content {
-  text-align: center;
+#section1{
+  color: #BDBDBD;
 }
