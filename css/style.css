@@ -1,14 +1,14 @@
 a:link {
-    color: #BDBDBD;
+    color: whitesmoke;
 }
 a:visited {
-    color: #BDBDBD;
+    color: whitesmoke;
 }
 a:hover {
-    color: #BDBDBD;
+    color: whitesmoke;
 }
 a:active {
-    color: #BDBDBD;
+    color: whitesmoke;
 }
 #fullpage{
   width: 100%;
@@ -20,5 +20,5 @@ a:active {
     display: none;
 }
 #section1{
-  color: #BDBDBD;
+  color: whitesmoke;
 }
