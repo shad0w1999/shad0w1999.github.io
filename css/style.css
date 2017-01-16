@@ -1,14 +1,14 @@
 a:link {
-    color: whitesmoke;
+    color: whitesmoke !important;
 }
 a:visited {
-    color: whitesmoke;
+    color: whitesmoke !important;
 }
 a:hover {
-    color: whitesmoke;
+    color: whitesmoke !important;
 }
 a:active {
-    color: whitesmoke;
+    color: whitesmoke !important;
 }
 #fullpage{
   width: 100%;
@@ -20,5 +20,5 @@ a:active {
     display: none;
 }
 #section1{
-  color: whitesmoke;
+  color: whitesmoke !important;
 }
