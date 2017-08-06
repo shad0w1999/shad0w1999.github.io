@@ -5,6 +5,7 @@ $(document).ready(function() {
 		navigation: true,
 		navigationPosition: 'right',
 		scrollBar: true,
+		controlArrows:false,
 		slidesNavigation: true,
 		afterRender: function() {
 			// show page on ready
