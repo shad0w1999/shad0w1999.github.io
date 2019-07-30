@@ -1,0 +1,22 @@
+<span id="a">shardik99@world</span>:<span id="b">~</span><span id="c">$</span> cd HardikSingh/about
+<span id="a">shardik99@world</span>:<span id="b">~</span><span id="c">$</span> uname -a
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+I'm <small>Hardik Singh</small>
+Your average geek who likes coffee, gaming and $uicideboy$. I pride myself on being able to restart any router, set up a counter strike server through only my google drive and going on exactly 1 hike that I now always talk about. I also love hardware and taking apart stuff that usually doesn't fit back together. Like my old laptop, which is now only a 500Gb HDD plugged into the PC I built to play Minesweeper without lag. I also like fiddling around with custom Android roms on xda-developers and distro hopping much more often than healthy. Oh, and I also installed arch linux once.
+<span id="a">shardik99@world</span>:<span id="b">~</span><span id="c">$</span> cat interests.csv
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>{Full Stack Development, Linux, Networking, Information Security, UX Design}</p>
+<span id="a">shardik99@world</span>:<span id="b">~</span><span id="c">$</span> xxd -d acad.hex
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+0x000 College CGPA: 0x7.0x27(7.39)
+0x006 Grade X:      0x5D.0x4(93.4)
+0x00c Grade XII:    0x5E.0x3(94.3)
+<span id="a">shardik99@world</span>:<span id="b">~</span><span id="c">$</span> cd ../projects
+<span id="a">shardik99@world</span>:<span id="b">~</span><span id="c">$</span> ls -la
+total 5
+drwxrwxrwx 1 moisture-desktop <small>Thingspeak.com monitor built using Electron.js to visualize historical sensor data</small>
+drwxrwxrwx 1 uptime-monitor <small>Website downtime status monitor with support for Whatsapp based alerts</small>
+drwxrwxrwx 1 ng-disaster <small>Frontend for blockchain based disaster management system built for Microsoft codefundo 2018</small>
+drwxrwxrwx 1 search-enhancer <small>Search enhancer with autocorrect and autocomplete</small>
+drwxrwxrwx 1 com.shardik99.recipeapp <small>Android app that uses ingredient list to show possible recipes</small>
+|
